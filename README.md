@@ -40,8 +40,7 @@ customer_behavior/
 ├── Customer_Behavior_Analysis.ipynb
 ├── Customer_Behavior_Dashboard.pbix
 ├── customer_data.csv
-├── images/
-│   ├── dashboard.png  
+├── Dashboard.png  
 └── README.md
 ```
 
@@ -80,7 +79,7 @@ The Power BI dashboard includes:
 > Upload screenshots inside the **images** folder and update the file names below.
 
 ```markdown
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ```
 
